@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">CodilityTask3TheMoviesDbAPI</string>
+    <string name="tmdb_api_key">83c89d8d703d8aa12e05e9c9109565da</string>
+
+    <string name="fetching_movies">Fetching Movies</string>
+    <string name="fetching_more_movies">Fetching More Movies</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="no_movies_found">No movies found for current search</string>
+
+    <string name="loading_filter_options">Loading filter options, please wait…</string>
+    <string name="include_adult">Include Adult</string>
+    <string name="title_filter_bottom_sheet">Filter &amp; Sort Movies</string>
+    <string name="reset">RESET</string>
+    <string name="close_content_description">Close</string>
+
+    <string name="genres">Genres</string>
+    <string name="fetching_movie_detail">Fetching Movie Detail</string>
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="duration_minutes">%1$s min</string>
+    <string name="vote_average">Vote Avg</string>
+    <string name="votes">Votes</string>
+    <string name="cast">Cast</string>
+    <string name="crew">Crew</string>
+    <string name="images">Images</string>
+    <string name="see_all">See All(%1$d)</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="open_website_content_description">Open Movie Website</string>
+    <string name="backdrop_content_description">Backdrop Image of %1$s</string>
+    <string name="movie_poster_content_description">Poster Image of %1$s</string>
+    <string name="production_company_logo_content_description">Logo of %1$s</string>
+    <string name="person_content_description">Photo of %1$s the %2$s</string>
+
+    <string name="sort_by">Sort By</string>
+    <string name="sort_by_popularity">Popularity</string>
+    <string name="sort_by_vote_count">Vote Count</string>
+    <string name="sort_by_vote_average">Vote Average</string>
+    <string name="sort_by_release_date">Release Date</string>
+    <string name="sort_by_original_title">Original Title</string>
+    <string name="sort_by_revenue">Revenue</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="sort_order_descending">Descending</string>
+    <string name="sort_order_ascending">Ascending</string>
+
+    <string name="likes_content_description">Likes</string>
+    <string name="poster_content_description">Poster</string>
+
+    <string name="error_icon_content_description">Error Icon</string>
+
+    <string name="fetching_profile">Fetching Profile</string>
+    <string name="birthday">Birthdate: %1$s</string>
+    <string name="birthplace">Birthplace: %1$s</string>
+    <string name="known_for">Known for: %1$s</string>
+    <string name="also_known_as">Also known as:</string>
+    <string name="open_imdb_profile">Open IMDB Profile</string>
+    <string name="open_imdb_content_description">Open IMDB Profile Page</string>
+
+    <string name="language">Language:</string>
+    <string name="fetching_languages">Fetching Languages</string>
+    <string name="back_icon_content_description">Go Back</string>
+    <string name="settings_content_description">Settings</string>
+    <string name="dark_theme_content_description">Use dark theme</string>
+    <string name="light_theme_content_description">Use light theme</string>
+    <string name="flag_content_description">Flag of the %1$s</string>
+</resources>
